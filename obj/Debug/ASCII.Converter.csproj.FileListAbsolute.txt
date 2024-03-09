@@ -1,0 +1,10 @@
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ASCII.Converter\bin\Debug\ASCII.Converter.exe.config
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ASCII.Converter\bin\Debug\ASCII.Converter.exe
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ASCII.Converter\bin\Debug\ASCII.Converter.pdb
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ASCII.Converter\obj\Debug\ASCII.Converter.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ASCII.Converter\obj\Debug\ASCII.Converter.Properties.Resources.resources
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ASCII.Converter\obj\Debug\ASCII.Converter.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ASCII.Converter\obj\Debug\ASCII.Converter.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ASCII.Converter\obj\Debug\ASCII.Converter.exe
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ASCII.Converter\obj\Debug\ASCII.Converter.pdb
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ASCII.Converter\obj\Debug\ASCII.Converter.Form1.resources
